@@ -1,2 +1,4 @@
-# debug_test
-First debug test using Debugger in Visual Studio Code
+# Universidad Católica del Uruguay
+## Facultad de Ingeniería y Tecnologías
+### Programación II
+Código de ejemplo del tema "debug y test"
